@@ -3,7 +3,7 @@
 ## Overview
 This project is a graphical implementation of the popular 2048 puzzle game developed using Python and the Tkinter library. The game allows users to combine numbered tiles by moving them in different directions to reach the 2048 tile while tracking scores and high scores.
 The project demonstrates the implementation of GUI development, game logic, object-oriented programming, and event handling in Python.
-[!image alt](https://github.com/kashvi05i-stack/2048-Game/blob/8a000dad435ef65a72dd0b04b2941970d67bd28d/2048%20play%20board.png)
+![image alt](https://github.com/kashvi05i-stack/2048-Game/blob/8a000dad435ef65a72dd0b04b2941970d67bd28d/2048%20play%20board.png)
 ---
 
 ## Features
